@@ -1,1 +1,0 @@
-Erdem github profil doldurma :P
