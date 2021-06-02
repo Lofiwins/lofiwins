@@ -1,26 +1,4 @@
-<h1 align="center">Lofiwins</h1>
-
-<p align="center">
- <a href="https://discord.com/users/586567009525825537" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.github.com/Lofiwins" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/hojimymph0082cs92xwdqj74y" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/erdemmsimsekk" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- 
-You can follow me on these platforms to get more information about me and follow news about my projects!
-
-
-## Spotify Playing Now:
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hojimymph0082cs92xwdqj74y)
-
-![Pixelable github stats](https://github-readme-stats.vercel.app/api?username=lofiwins&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
-![Pixelable](https://github-readme-stats.vercel.app/api/top-langs/?username=lofiwins&theme=dark&hide_border=true&layout=compact)
-
-
-
- 
- 
- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Aditya.</h2>
 
@@ -65,8 +43,8 @@ You can follow me on these platforms to get more information about me and follow
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lofiwins&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lofiwins&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lofiwins&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lofiwins&theme=dark&layout=compact" />
 </a>
 
 <br/>
