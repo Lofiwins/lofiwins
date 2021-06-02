@@ -40,20 +40,20 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Lofiwins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lofiwins&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lofiwins&theme=dark&layout=compact" />
 </a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
+## ⚡ Contact
+<div align="center">
+    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://theark.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+</div>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
