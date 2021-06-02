@@ -39,7 +39,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
-![](https://komarev.com/ghpvc/?username=Lofiwins&label=PROFILE+VIEWS)
+![](https://hit.yhype.me/github/profile?user_id=Lofiwins)
 <a href="https://github.com/Lofiwins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lofiwins&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lofiwins&theme=dark&layout=compact" />
